@@ -1,0 +1,1 @@
+# example-voting-app-k8s-docker-compose-swarm
