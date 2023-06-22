@@ -40,6 +40,8 @@ kubectl create -f k8s-specifications/
 
 The `vote` web app is then available on port 31000 on each host of the cluster, the `result` web app is available on port 31001.
 
+<img src="images/kubernetes-servece.png"><img>
+
 To remove them, run:
 
 ```shell
